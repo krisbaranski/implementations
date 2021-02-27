@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
 
 :root {
   --line-border-fill: #3498db;
@@ -10,8 +10,8 @@
 }
 
 body {
-  background-color: #f6f7fb;
-  font-family: "Muli", sans-serif;
+  background-color: #e0e0e0;
+  font-family: 'Muli', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
 }
 
 .progress-container::before {
-  content: "";
+  content: '';
   background-color: var(--line-border-empty);
   position: absolute;
   top: 50%;
