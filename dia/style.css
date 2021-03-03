@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Muli", sans-serif;
+  font-family: 'Muli', sans-serif;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -26,16 +26,16 @@ body {
 }
 
 .dia {
-  background-size: auto 100%;
+  background-size: auto 80%;
   background-position: center;
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 10px;
   color: rgb(44, 43, 43);
-  flex: 0.5;
+  flex: 0.2;
   margin: 5px;
   position: relative;
-  transition: flex 0.6s ease-in;
+  transition: flex 0.6s ease;
 }
 
 .dia h3 {
