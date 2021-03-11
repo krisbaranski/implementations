@@ -42,7 +42,7 @@ h3 {
 }
 
 .btn {
-  background-color: #6a6ea3;
+  background-color: #6a6ea3d8;
   color: #fff;
   border: 0;
   border-radius: 10px;
@@ -53,7 +53,7 @@ h3 {
 }
 
 .btn:active {
-  background-color: #888ec7;
+  background-color: #6a6ea3;
   transform: scale(0.98);
 }
 
