@@ -20,7 +20,7 @@ function createTags(input) {
   tags.forEach(tag => {
     const tagEl = document.createElement('span');
     tagEl.classList.add('tag');
-    tagEL.innerText = tag;
-    tagsEl.appendChild(tagEL);
+    tagEl.innerText = tag;
+    tagsEl.appendChild(tagEl);
   });
 }
