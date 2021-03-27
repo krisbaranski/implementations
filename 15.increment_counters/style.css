@@ -21,7 +21,7 @@ body {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  margin: 30px 50px;
+  margin: 30px 40px;
 }
 
 .counter {
@@ -29,7 +29,7 @@ body {
   margin-top: 10px;
 }
 
-@media (max-width: 580px) {
+@media (max-width: 640px) {
   body {
     flex-direction: column;
   }
