@@ -6,13 +6,17 @@ const API_URL =
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
 const SEARCH_API =
   'https:/api.themoviedb.org/3/search/movie?api_key=25abe828f8680becf698c08e24be0b51&query="';
-const SCIFI_API =
-  'https:/api.themoviedb.org/3/discover/movie?with_genres=878&sort_by=vote_average.desc&api_key=25abe828f8680becf698c08e24be0b51&page=1';
+
+// API for top rated Sci-fi movies
+
+// const SCIFI_API =
+//   'https:/api.themoviedb.org/3/discover/movie?with_genres=878&sort_by=vote_average.desc&api_key=25abe828f8680becf698c08e24be0b51&page=1';
+
 const form = document.getElementById('form');
 const search = document.getElementById('search');
 
 // Get initial movies
-getMovies(SCIFI_API);
+getMovies(API_URL);
 
 async function getMovies(url) {
   const res = await fetch(url);
@@ -49,7 +53,7 @@ function showMovies(movies) {
 }
 
 function getClassByRate(vote) {
-  if (vote >= 8) {
+  if (vote >= 7) {
     return 'green';
   } else if (vote >= 5) {
     return 'orange';
