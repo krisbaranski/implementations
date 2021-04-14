@@ -87,7 +87,7 @@ body {
 }
 
 .center-point {
-  background-color: var(--primary-color)
+  background-color: var(--primary-color);
   width: 10px;
   height: 10px;
   position: absolute;
