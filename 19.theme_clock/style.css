@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Heebo:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Heebo:300&display=swap');
 
 * {
   box-sizing: border-box;
@@ -58,7 +58,7 @@ body {
   position: relative;
   width: 200px;
   height: 200px;
-  background-color: #f0f0f0;
+  /* background-color: #f0f0f0; */
 }
 
 .needle {
@@ -67,7 +67,7 @@ body {
   top: 50%;
   left: 50%;
   height: 65px;
-  width: 3px;
+  width: 2px;
   transform-origin: bottom center;
 }
 
@@ -83,5 +83,53 @@ body {
 .needle.second {
   transform: translate(-50%, -100%) rotate(0deg);
   height: 100px;
-  background-color: red;
+  background-color: rgb(255, 115, 115);
+}
+
+.center-point {
+  background-color: var(--primary-color)
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.center-point::after {
+  content: '';
+  background-color: var(--primary-color);
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.time {
+  font-size: 60px;
+}
+
+.date {
+  color: #aaa;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.date .circle {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 18px;
+  transition: all 0.5s ease-in;
+  font-size: 12px;
 }
