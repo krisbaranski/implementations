@@ -32,7 +32,6 @@ body {
   width: 0;
   border: 50px solid transparent;
   border-radius: 50px;
-  border-bottom-color: #fff;
   animation: rotateA 2s linear infinite 0.5s;
 }
 
