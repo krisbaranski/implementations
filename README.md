@@ -6,7 +6,7 @@ i can warmly advise to go for it, if you are learning basics or refreshing HTML,
 In between i make an overview to show the results.
 
 ### Expanding Cards 
-![expanding cards](images/01.png), 
+![expanding cards](images/01.png) 
 ### Progress Steps 
 ![progress steps](images/02.png)
 ### Rotating Navigation 
