@@ -15,15 +15,16 @@ body {
 }
 
 .bg {
-  background: url(HP3C2860.jpg) no-repeat center center/cover;
+  background: url(img/lachlan-donald-YVT5aF2QM7M-unsplash.jpg) no-repeat center
+    center/cover;
   position: absolute;
-  width: calc(60vw + 60px);
-  height: calc(60vh + 60px);
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
   z-index: -1;
   filter: blur(30px);
 }
 
 .loading-text {
-  font-size: 30px;
+  font-size: 40px;
   color: #fff;
 }
