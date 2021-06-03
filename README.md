@@ -6,7 +6,7 @@ I warmly advise to go for this course, if you are learning basics or refreshing 
 This is an overview to show the results:
 
 | Expanding Cards | Progress Steps|
-| --- | --- |
+| ------ | ------ |
 | [![expanding cards](images/01.png)](https://krisbaranski.github.io/50projects/course/01.expanding_cards/index.html) | ![progress steps](images/02.png)|
 
 
@@ -17,7 +17,7 @@ This is an overview to show the results:
 
 
 | Rotating Navigation | Hidden Search |
-
+| ------ | ------ |
 | ![rotating navigation](images/03.png) | ![hidden search](images/04.png) |
 
 
@@ -25,7 +25,7 @@ This is an overview to show the results:
 
 
 | Blurry Loading | next project |
-
+| ------ | ------ |
 | ![blurry loading](images/05.gif) | ![expanding cards](images/06.png) |
 
 
