@@ -5,13 +5,13 @@
 I warmly advise to go for this course, if you are learning basics or refreshing HTML, CSS and JS knowledge.
 This is an overview to show the results:
 
-### Expanding Cards
+|### Expanding Cards|### Progress Steps|
 
-[![expanding cards](images/01.png)](https://krisbaranski.github.io/50projects/course/01.expanding_cards/index.html)
+|[![expanding cards](images/01.png)](https://krisbaranski.github.io/50projects/course/01.expanding_cards/index.html)|![progress steps](images/02.png)|
 
-### Progress Steps
 
-![progress steps](images/02.png)
+
+
 
 ### Rotating Navigation
 
