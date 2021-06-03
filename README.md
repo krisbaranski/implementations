@@ -10,7 +10,10 @@ This is an overview to show the results:
 | [![expanding cards](images/01.png)](https://krisbaranski.github.io/50projects/course/01.expanding_cards/index.html) | ![progress steps](images/02.png)|
 
 
-
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
 ### Rotating Navigation
