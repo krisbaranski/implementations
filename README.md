@@ -2,12 +2,12 @@
 
 ## Implementing HTML, CSS &amp; JS on a Udemy course made by Brad Traversy.
 
-i can warmly advise to go for it, if you are learning basics or refreshing HTML, CSS and JS knowledge.
-In between i make an overview to show the results.
+I warmly advise to go for this course, if you are learning basics or refreshing HTML, CSS and JS knowledge.
+This is an overview to show the results:
 
 ### Expanding Cards
 
-![expanding cards](images/01.png)
+![expanding cards <course/expanding_cards/index.html>](images/01.png)
 
 ### Progress Steps
 
