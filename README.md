@@ -7,7 +7,7 @@ This is an overview to show the results:
 
 ### Expanding Cards
 
-[![expanding cards](course/expanding_cards/index.html)](images/01.png)
+[![expanding cards](https://krisbaranski.github.io/50projects/course/expanding_cards/index.html)](images/01.png)
 
 ### Progress Steps
 
