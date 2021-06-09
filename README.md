@@ -5,19 +5,15 @@
 I warmly advise to go for this course, if you are learning basics or refreshing HTML, CSS and JS knowledge.
 This is an overview to show the results:
 
-|                                                   Expanding Cards                                                   |          Progress Steps          |
-| :-----------------------------------------------------------------------------------------------------------------: | :------------------------------: |
-| [![expanding cards](images/01.gif)](https://krisbaranski.github.io/50projects/course/01.expanding_cards/index.html) | ![progress steps](images/02.png) |
-
 |  Syntax   | Description |
 | :-------: | ----------- |
 |  Header   | Title       |
 | Paragraph | Text        |
 
-|          Rotating Navigation          |          Hidden Search          |
-| :-----------------------------------: | :-----------------------------: |
-| ![rotating navigation](images/03.png) | ![hidden search](images/04.png) |
+|                                                   Expanding Cards                                                   |                                                  Progress Steps                                                   |                                                     Rotating Navigation                                                     |
+| :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+| [![expanding cards](images/01.gif)](https://krisbaranski.github.io/50projects/course/01.expanding_cards/index.html) | [![progress steps](images/02.png)](https://krisbaranski.github.io/50projects/course/02.progress_steps/index.html) | [![rotating navigation](images/03.png)](https://krisbaranski.github.io/50projects/course/03.rotating_navigation/index.html) |
 
-|          Blurry Loading          |           next project            |
-| :------------------------------: | :-------------------------------: |
-| ![blurry loading](images/05.gif) | ![expanding cards](images/06.png) |
+|          Hidden Search          |          Blurry Loading          |           next project            |
+| :-----------------------------: | :------------------------------: | :-------------------------------: |
+| ![hidden search](images/04.png) | ![blurry loading](images/05.gif) | ![expanding cards](images/06.png) |
