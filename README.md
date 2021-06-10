@@ -3,6 +3,7 @@
 ## Implementing HTML, CSS &amp; JS on a Udemy course made by Brad Traversy.
 
 I warmly advise to go for this course, if you are learning basics or refreshing HTML, CSS and JS knowledge.
+
 This is an overview to show the results, click on the animation and follow directly to the site:
 
 |                                                                                                                     |                                                                                                                               |                                                                                                                             |
@@ -12,4 +13,4 @@ This is an overview to show the results, click on the animation and follow direc
 |                                                    Hidden Search                                                    |                                                        Blurry Loading                                                         |                                                        next project                                                         |
 |   [![hidden search](images/04.gif)](https://krisbaranski.github.io/50projects/course/04.hidden_search/index.html)   |       [![blurry loading](images/05.gif)](https://krisbaranski.github.io/50projects/course/04.blurry_loading/index.html)       |    [![expanding cards](images/06.gif)](https://krisbaranski.github.io/50projects/course/06.scroll_animation/index.html)     |
 |                                                    Split Landing                                                    |                                                     Login Wave Animation                                                      |                                                         Sound Board                                                         |
-|   [![split landing](images/07.gif)](https://krisbaranski.github.io/50projects/course/07.split_landing/index.html)   | [![login wave animation](images/08.png)](https://krisbaranski.github.io/50projects/course/08.login_wave_animation/index.html) |         [![sound board](images/09.png)](https://krisbaranski.github.io/50projects/course/09.sound_board/index.html)         |
+|   [![split landing](images/07.gif)](https://krisbaranski.github.io/50projects/course/07.split_landing/index.html)   | [![login wave animation](images/08.gif)](https://krisbaranski.github.io/50projects/course/08.login_wave_animation/index.html) |         [![sound board](images/09.png)](https://krisbaranski.github.io/50projects/course/09.sound_board/index.html)         |
