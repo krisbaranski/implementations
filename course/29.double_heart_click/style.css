@@ -9,6 +9,8 @@ body {
   text-align: center;
   overflow: hidden;
   margin: 0;
+  background-color: rgb(66, 66, 66);
+  color: #eee;
 }
 
 h3 {
@@ -17,5 +19,36 @@ h3 {
 }
 
 small {
+  display: block;
+  margin-bottom: 20px;
   text-align: center;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.loveMe {
+  height: 440px;
+  width: 440px;
+  background: url(https://images.unsplash.com/photo-1624095935275-4d1230cdf163?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+    no-repeat center center/cover;
+  margin: auto;
+  border: 1px solid #fff;
+  cursor: pointer;
+  max-width: 90%;
+  position: relative;
+}
+
+.loveMe .fa-heart {
+  position: absolute;
+  animation: grow 0.6s linear;
+  transform: translate(-50%, -50%) scale(0);
+}
+
+@keyframes grow {
+  to {
+    transform: translate(-50%, -50%) scale(10);
+    opacity: 0;
+  }
 }
