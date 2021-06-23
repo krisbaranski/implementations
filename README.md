@@ -1,15 +1,17 @@
 # 50projects
 
-## HTML, CSS and JS.
+## HTML, CSS and JS
 
-In this repository i implemented HTML, CSS and JS code learned in a course made by Brad Traversy.
+In this repository i show HTML, CSS and JS code learned in a course made by Brad Traversy.
 
 As the number say, there are 50 implementations of pages including interactive:
 
 - slideshows,
 - navigations,
-- animations, notifications,
-- generators (API, random password),
+- animations,
+- notifications,
+- generators (random numbers, passwords),
+- API's (axios, async/await),
 - buttons and clicks,
 - counters,
 - and more.
@@ -41,4 +43,4 @@ Click on the animation and follow directly to the site:
 |                                                      Github Profiles                                                      |                                                      Double Heart Click                                                       |                                                      Auto text Effect                                                       |
 |    [![github profiles](images/28.gif)](https://krisbaranski.github.io/50projects/course/28.github_profiles/index.html)    |   [![double heart click](images/29.gif)](https://krisbaranski.github.io/50projects/course/29.double_heart_click/index.html)   |    [![auto text effect](images/30.gif)](https://krisbaranski.github.io/50projects/course/30.auto_text_effect/index.html)    |
 |                                                    Password Generator                                                     |                                                      Double Heart Click                                                       |                                                      Auto text Effect                                                       |
-| [![password generator](images/31.gif)](https://krisbaranski.github.io/50projects/course/31.password_generator/index.html) |   [![double heart click](images/29.gif)](https://krisbaranski.github.io/50projects/course/29.double_heart_click/index.html)   |    [![auto text effect](images/30.gif)](https://krisbaranski.github.io/50projects/course/30.auto_text_effect/index.html)    |
+| [![password generator](images/31.gif)](https://krisbaranski.github.io/50projects/course/31.password_generator/index.html) |   [![double heart click](images/32.gif)](https://krisbaranski.github.io/50projects/course/29.double_heart_click/index.html)   |    [![auto text effect](images/33.gif)](https://krisbaranski.github.io/50projects/course/30.auto_text_effect/index.html)    |
