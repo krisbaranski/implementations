@@ -1,16 +1,80 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  background-color: darkseagreen;
+  color: #fff;
+  font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
   overflow: hidden;
+  padding: 10px;
   margin: 0;
+}
+h2 {
+  text-align: center;
+  margin: 10px 0 20px;
+}
+
+.container {
+  background-color: rgb(41, 70, 70);
+  border: 2px solid rgb(192, 240, 237);
+  border-radius: 10px;
+  padding: 20px;
+  width: 350px;
+  max-width: 100%;
+}
+
+.result-container {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  padding: 10px;
+  height: 50px;
+  width: 100%;
+}
+
+.result-container #result {
+  word-wrap: break-word;
+  max-width: calc(100% - 40px);
+}
+
+.result-container .btn {
+  position: absolute;
+  right: 0;
+  background-color: transparent;
+  font-size: 25px;
+}
+
+.btn {
+  border: none;
+  background-color: darkseagreen;
+  color: #fff;
+  font-size: 16px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-large {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.setting {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
 }
