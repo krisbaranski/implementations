@@ -34,7 +34,7 @@ h2 {
 .result-container {
   background-color: rgba(0, 0, 0, 0.4);
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   position: relative;
   font-size: 18px;
