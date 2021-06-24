@@ -16,6 +16,7 @@ body {
   overflow: hidden;
   padding: 10px;
   margin: 0;
+  min-height: 100vh;
 }
 h2 {
   text-align: center;
@@ -24,10 +25,11 @@ h2 {
 
 .container {
   background-color: rgb(41, 70, 70);
-  border: 2px solid rgb(192, 240, 237);
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+  border: 2px solid rgb(167, 180, 179);
   border-radius: 10px;
   padding: 20px;
-  width: 350px;
+  min-width: 350px;
   max-width: 100%;
 }
 
@@ -71,6 +73,11 @@ h2 {
   display: block;
   width: 100%;
   margin-top: 20px;
+}
+
+.btn-large:hover {
+  background-color: rgb(115, 151, 115);
+  transform: scale(0.99);
 }
 
 .setting {
