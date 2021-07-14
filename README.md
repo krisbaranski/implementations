@@ -2,9 +2,7 @@
 
 ## HTML, CSS and JS
 
-In this repository i show HTML, CSS and JS code learned in a course made by Brad Traversy.
-
-As the number say, there are 50 implementations of pages including interactive:
+Implementation of HTML, CSS and JS code, 50 examples of pages including interactive:
 
 - slideshows,
 - navigations,
@@ -14,9 +12,10 @@ As the number say, there are 50 implementations of pages including interactive:
 - API's (axios, async/await),
 - buttons and clicks,
 - counters,
-- and more.
+- notes, drawing pads,
+- .
 
-I'm learning basics and refreshing HTML, CSS and JS knowledge. In this overview you can see the results.
+Basics and intermediate knowledge. In this overview you can see the results.
 
 Click on the animation and follow directly to the site:
 
