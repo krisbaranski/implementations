@@ -11,12 +11,33 @@
       crossorigin="anonymous"
     /> -->
     <link rel="stylesheet" href="style.css" />
-    <title>My Project</title>
+    <title>Image Carousel</title>
   </head>
   <body>
-    <h1>Project Starter</h1>
-    <h2>Hello</h2>
-    <h2>Hello</h2>
+    <div class="carousel">
+      <div class="image-container" id="imgs">
+        <img
+          src="https://images.unsplash.com/photo-1580637065348-b9d1e33ea340?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fG91dGRvb3J8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+          alt="first-image"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1609264893607-15ac353c19ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG91dGRvb3J8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1516345778817-269d6df2afd7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzk1fHxvdXRkb29yfGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+          alt="third-image"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1560104460-f4a079f54bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEzfHxvdXRkb29yfGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+          "
+          alt="fourth-image"
+        />
+      </div>
+      <div class="buttons-container">
+        <button id="left" class="btn">Prev</button>
+        <button id="right" class="btn">Next</button>
+      </div>
+    </div>
 
     <script src="script.js"></script>
   </body>
