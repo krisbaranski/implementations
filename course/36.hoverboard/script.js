@@ -1,7 +1,7 @@
 'use strict';
 
 const container = document.getElementById('container');
-const colors = ['coral', 'cyan', 'magenta', 'purple'];
+const colors = ['turquoise', '#2ecc71', '#f6e58d', '#eb4d4b'];
 const squares = 500;
 
 for (let i = 0; i < squares; i++) {
