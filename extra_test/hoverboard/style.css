@@ -11,9 +11,21 @@ body {
   flex-direction: column;
   align-items: center;
   /* justify-content: center; */
-  height: 100vh;
+  /* height: 100vh; */
   /* overflow: hidden; */
   margin: 0;
+}
+
+.container_colors {
+  position: relative;
+  margin: 0;
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  flex-wrap: wrap;
+  width: 100%;
+  height: 512px;
+  overflow: hidden;
 }
 
 .container {
@@ -24,33 +36,71 @@ body {
   align-items: center; */
   flex-wrap: wrap;
   width: 100%;
-  height: 500px;
+  height: 400px;
   overflow: hidden;
 }
 
-.container h1 {
-  position: absolute;
+.header {
+  background-color: rgba(90, 90, 90, 0.5);
+  width: auto;
+}
 
+h1 {
   top: 50px;
-  left: 50px;
-  color: #fff;
-  font-size: 50px;
+  font-size: 4rem;
   font-family: inherit;
   font-weight: 300;
+}
+
+h3 {
+  top: 150px;
+  font-size: 2rem;
+  font-family: inherit;
+  font-weight: 300;
+}
+
+p {
+  top: 50px;
+  width: 50%;
+  font-size: 0.8rem;
+  font-weight: 100;
+}
+
+h1,
+h3,
+p {
+  position: absolute;
+  left: 50px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  font-family: inherit;
+  z-index: 10;
+}
+
+.container p {
+  position: absolute;
+  top: 150px;
+  left: 50px;
+  width: 50%;
+  color: #fff;
+  font-size: 1rem;
+  font-family: inherit;
+  font-weight: 100;
   z-index: 10;
 }
 
 .square {
   background-color: #1d1d1d;
   box-shadow: 0 0 2px #000;
-  height: 8px;
-  width: 8px;
+  height: 15px;
+  width: 15px;
   /* border-radius: 50%; */
-  margin: 1px;
+  margin: 2px;
   transition: 5s ease;
 }
 
 .square:hover {
   transition: 0s;
-  background-color: #000;
+  /* background-color: #000; */
 }

@@ -2,14 +2,14 @@
 
 const container = document.getElementById('container');
 const colors = ['turquoise', '#2ecc71', '#f6e58d', '#eb4d4b'];
-const squares = 10000;
+const squares = 8000;
 
 for (let i = 0; i < squares; i++) {
   const square = document.createElement('div');
   square.classList.add('square');
 
   square.addEventListener('mouseover', () => setColor(square));
-  square.addEventListener('mouseout', () => removeColor(square));
+  // square.addEventListener('mouseout', () => removeColor(square));
 
   container.appendChild(square);
 }
