@@ -2,7 +2,7 @@
 
 const container = document.getElementById('container');
 const colors = ['turquoise', '#2ecc71', '#f6e58d', '#eb4d4b'];
-const squares = 500;
+const squares = 756;
 
 for (let i = 0; i < squares; i++) {
   const square = document.createElement('div');
