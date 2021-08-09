@@ -1,8 +1,8 @@
 # 50projects
 
-## HTML, CSS and JS
+## Implementation of HTML, CSS and JS code
 
-Implementation of HTML, CSS and JS code, 50 examples of pages including interactive:
+50 examples of pages including interactive:
 
 - slideshows,
 - navigations,
