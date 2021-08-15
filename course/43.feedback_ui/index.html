@@ -4,20 +4,51 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <link
+    <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
       integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
       crossorigin="anonymous"
-    /> -->
+    />
     <link rel="stylesheet" href="style.css" />
-    <title>My Project</title>
+    <title>Let Us Know Your Feedback</title>
   </head>
-  <body>
-    <h1>Project Starter</h1>
-    <h2>Hello</h2>
-    <h2>Hello</h2>
 
+  <body>
+    <div id="panel" class="panel-container">
+      <strong
+        >How satisfied are you with our <br />
+        customer support performance?
+      </strong>
+
+      <div class="ratings-container">
+        <div class="rating">
+          <img
+            src="https://image.flaticon.com/icons/png/512/3769/3769565.png"
+            alt=""
+          />
+          <small>Unhappy</small>
+        </div>
+
+        <div class="rating">
+          <img
+            src="https://image.flaticon.com/icons/png/512/3769/3769009.png"
+            alt=""
+          />
+          <small>Neutral</small>
+        </div>
+
+        <div class="rating active">
+          <img
+            src="https://image.flaticon.com/icons/png/512/983/983079.png"
+            alt=""
+          />
+          <small>Satisfied</small>
+        </div>
+      </div>
+
+      <button class="btn" id="send">Send Review</button>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
