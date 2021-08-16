@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #fef9f2;
+  background-color: #b87e58;
   font-family: 'Montserrat', sans-serif;
   display: flex;
   align-items: center;
@@ -16,8 +16,8 @@ body {
 }
 
 .panel-container {
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  background-color: rgb(226, 213, 202);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   border-radius: 4px;
   font-size: 90%;
   display: flex;
@@ -39,16 +39,17 @@ body {
 }
 
 .rating {
+  background-color: rgb(245, 226, 209);
   flex: 1;
   cursor: pointer;
   padding: 20px;
   margin: 10px 5px;
+  border-radius: 8px;
 }
 
 .rating:hover,
 .rating.active {
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .rating img {
@@ -67,7 +68,7 @@ body {
 }
 
 .btn {
-  background-color: #444;
+  background-color: #777;
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -75,8 +76,11 @@ body {
   cursor: pointer;
 }
 
-.btn:hover {
+.btn:focus {
   outline: 0;
+}
+
+.btn:active {
   transform: scale(0.98);
 }
 
