@@ -4,16 +4,16 @@
 
 50 examples of pages including interactive:
 
-- slideshows,
-- navigations (top, mobile),
-- animations,
-- notifications,
-- generators (random numbers, passwords),
-- API's (axios, async/await),
-- button and click effects,
-- counters, loadings,
-- notes, drawing pad,
-- verifyier, feedback,
+- slideshows
+- navigations (top, mobile)
+- animations
+- notifications
+- generators (random numbers, passwords)
+- API's (axios, async/await)
+- button and click effects
+- counters, loadings
+- notes, drawing pad
+- verifyier, feedback
 -
 
 Basics and intermediate knowledge. In this overview you can see the results.
@@ -50,5 +50,5 @@ Click on the animation and follow directly to the site:
 |            [![pokedex](images/37.gif)](https://krisbaranski.github.io/50projects/course/37.pokedex/index.html)            |       [![mobile tab nav](images/38.gif)](https://krisbaranski.github.io/50projects/course/38.mobile_tab_nav/index.html)       | [![image password strength](images/39.gif)](https://krisbaranski.github.io/50projects/course/39.image_password_strength/index.html) |
 |                                                    3D Background Boxes                                                    |                                                       Verify Account UI                                                       |                                                          Live User Filter                                                           |
 |     [![3d background boxes](images/40.gif)](https://krisbaranski.github.io/50projects/course/40.3d_boxes/index.html)      |    [![verify account ui](images/41.gif)](https://krisbaranski.github.io/50projects/course/41.verify_account_ui/index.html)    |        [![live user filter](images/42.gif)](https://krisbaranski.github.io/50projects/course/42.live_user_filter/index.html)        |
-|                                                        Feedback UI                                                        |                                                      Custom Range Slider                                                      |                                                          Live User Filter                                                           |
-|        [![feedback ui](images/43.gif)](https://krisbaranski.github.io/50projects/course/43.feedback_ui/index.html)        |  [![custom range slider](images/44.gif)](https://krisbaranski.github.io/50projects/course/44.custom_range_slider/index.html)  |        [![live user filter](images/42.gif)](https://krisbaranski.github.io/50projects/course/42.live_user_filter/index.html)        |
+|                                                        Feedback UI                                                        |                                                      Custom Range Slider                                                      |                                                         Netflix Navigation                                                          |
+|        [![feedback ui](images/43.gif)](https://krisbaranski.github.io/50projects/course/43.feedback_ui/index.html)        |  [![custom range slider](images/44.gif)](https://krisbaranski.github.io/50projects/course/44.custom_range_slider/index.html)  |      [![netflix navigation](images/45.gif)](https://krisbaranski.github.io/50projects/course/45.netflix_navigation/index.html)      |
