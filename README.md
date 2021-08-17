@@ -5,15 +5,16 @@
 50 examples of pages including interactive:
 
 - slideshows,
-- navigations,
+- navigations (top, mobile),
 - animations,
 - notifications,
 - generators (random numbers, passwords),
 - API's (axios, async/await),
-- buttons and clicks,
-- counters,
-- notes, drawing pads,
-- .
+- button and click effects,
+- counters, loadings,
+- notes, drawing pad,
+- verifyier, feedback,
+-
 
 Basics and intermediate knowledge. In this overview you can see the results.
 
