@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #c5c5c5;
+  background-color: #ceeffc;
   font-family: 'Montserrat', sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,7 +17,7 @@ body {
   padding: 10px;
 }
 
-.testimonial-container {
+.testimonials-container {
   position: relative;
   background-color: #476ce4;
   color: #fff;
