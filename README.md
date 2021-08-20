@@ -14,7 +14,6 @@
 - counters, loadings
 - notes, drawing pad
 - verifyier, feedback
--
 
 Basics and intermediate knowledge. In this overview you can see the results.
 
