@@ -2,4 +2,4 @@
 
 const screens = document.querySelectorAll('.screen');
 
-screens[0].classList.add('up');
+// screens[0].classList.add('up');
