@@ -1,6 +1,6 @@
-# 50projects
+# 50 Implementations
 
-## Implementation of HTML, CSS and JS code
+## HTML5, CSS3, Javascript ES6
 
 50 examples of pages including interactive:
 
